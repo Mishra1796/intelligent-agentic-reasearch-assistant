@@ -475,7 +475,7 @@ Assistant locally.
 ## 1. Clone the Repository
 
 ``` bash
-git clone https://github.com/Ankit92110/intelligent-agentic-research-assistant.git
+git clone https://github.com/Mishra1796/intelligent-agentic-research-assistant.git
 
 cd intelligent-agentic-research-assistant
 ```
@@ -1164,7 +1164,7 @@ development.
 
 # 👨💻 Author
 
-**Ankit Mishra**
+**Ranjan Kumar Mishra**
 
 AI Engineer passionate about building production-quality AI systems with
 a strong emphasis on software architecture, Retrieval-Augmented
@@ -1173,7 +1173,7 @@ applications.
 
 ### Connect
 
--   GitHub: https://github.com/Ankit92110
+-   GitHub: https://github.com/Mishra1796
 
 ------------------------------------------------------------------------
 

@@ -15,7 +15,7 @@ This document provides step-by-step instructions to set up the codebase locally.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/Ankit92110/intelligent-agentic-research-assistant.git
+git clone https://github.com/Mishra1796/intelligent-agentic-research-assistant.git
 cd intelligent-agentic-research-assistant
 ```
 

@@ -107,7 +107,7 @@ You will need two free API keys to enable the LLM and live web search tools:
 Open your terminal, navigate to your desired directory, and clone the repository:
 
 ```bash
-git clone https://github.com/Ankit92110/intelligent-agentic-research-assistant.git
+git clone https://github.com/Mishra1796/intelligent-agentic-research-assistant.git
 cd intelligent-agentic-research-assistant
 ```
 
